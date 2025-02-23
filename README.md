@@ -31,6 +31,6 @@ LiquidCrystal_I2C Library – For interfacing the I2C LCD display.
 Digital Input/Output – Button and LED control using Arduino’s GPIO pins.
 
 OUTPUT
+![image](https://github.com/user-attachments/assets/e5791ded-68a1-48bf-9274-a700cee06a2a)
 
-![Image](https://github.com/user-attachments/assets/2d365263-852a-4102-a66a-e2fa7761a4dc)
 
